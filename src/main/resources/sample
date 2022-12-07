@@ -1,0 +1,45 @@
+http://localhost:8081/student/savestudent
+{
+    "studentUSN":"1rl08cs095",
+	"studentFName":"Mallikarjun",
+	"studentLName":"Jamagav",
+	"studentEmail":"mallikarjun@gmail.com",
+	"studentPhNo":"9886667821",
+	"sem":"1",
+	"branch":"CSE"
+}
+
+http://localhost:8081/student/students/1rl08cs094
+
+http://localhost:8081/student/getStudents
+
+http://localhost:8081/student/updateStudents/1rl08cs095
+{
+    "studentUSN":"1rl08cs095",
+	"studentFName":"Mallikarjun",
+	"studentLName":"Jamagav",
+	"studentEmail":"mallikarjun@gmail.com",
+	"studentPhNo":"8904413719",
+	"branch":"CSE"
+}
+
+http://localhost:8081/books/saveBook
+{
+    "bookTitle":"JAVA Programming",
+	"authors":"Padma Reddy",
+	"publisher":"PEARSON",
+	"isbn":"JJ123456",
+	"tag":"JAVA",
+	"quantity":"50"
+}
+
+
+-------
+ADMIN
+
+username---siddaram12344
+pwd---1234
+
+username---siddaram
+pwd--1234
+
